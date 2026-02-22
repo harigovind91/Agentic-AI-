@@ -1,0 +1,12 @@
+Harigovind_Wipro_Challenge.zip
+├── Source_Code/
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── Dockerfile
+│   ├── docker-compose.yml
+│   └── .env.example
+├── Documents/
+│   ├── Solution_Architecture.pdf
+│   └── Validation_Report.pdf
+├── Links.txt (YouTube Links यहाँ लिखें)
+└── README.md
